@@ -1,0 +1,10 @@
+[
+    {
+        "expense_category": "milk",
+        "amount": 340
+    },
+    {
+        "expense_category": "milk",
+        "amount": 2300
+    }
+]
